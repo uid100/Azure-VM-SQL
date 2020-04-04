@@ -71,11 +71,11 @@ Configuring SQL Server can be done from the command line, but SQL Server Managem
 
 Connect to the SQL Server (with SSMS), using Windows Authentication and setup SQL Authentication
 
-Add Sql Login
-
-![AddSqlLogin][AddSqlLogin]
+Add and configure Sql Login
 
 ![SqlPassword][SqlPassword]
+
+![AddSqlLogin][AddSqlLogin]
 
 ![DbMapping][DbMapping]
 
