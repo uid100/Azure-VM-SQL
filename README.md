@@ -109,7 +109,7 @@ Test the remote connection.
 [RDP]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/RDP.JPG
 [SetUserRoles]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SetUserRoles.JPG
 [SqlConfiguration]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG
-[SqlPassword]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG
+[SqlPassword]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlPassword.JPG
 [SqlRestart]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlRestart.JPG
 [WinFirewallConfig]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/WinFirewallConfig.JPG
 
