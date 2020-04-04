@@ -100,16 +100,16 @@ Log out of the VM, leaving it running (or simply close the remote desktop sessio
 Test the remote connection.
 
 
-[AddInboundPortRule]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddInboundPortRule.JPG"
-[AddSqlLogin]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddSqlLogin.JPG"
-[CreateVM]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/CreateVM.JPG"
-[DbMapping]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/DbMapping.JPG"
-[EnableTCPIP]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPIP.JPG"
-[EnableTCPPorts]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPPorts.JPG"
-[RDP]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/RDP.JPG"
-[SetUserRoles]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SetUserRoles.JPG"
-[SqlConfiguration]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG"
-[SqlPassword]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG"
-[SqlRestart]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlRestart.JPG"
-[WinFirewallConfig]: "https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/WinFirewallConfig.JPG"
+[AddInboundPortRule]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddInboundPortRule.JPG
+[AddSqlLogin]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddSqlLogin.JPG
+[CreateVM]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/CreateVM.JPG
+[DbMapping]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/DbMapping.JPG
+[EnableTCPIP]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPIP.JPG
+[EnableTCPPorts]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPPorts.JPG
+[RDP]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/RDP.JPG
+[SetUserRoles]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SetUserRoles.JPG
+[SqlConfiguration]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG
+[SqlPassword]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG
+[SqlRestart]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlRestart.JPG
+[WinFirewallConfig]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/WinFirewallConfig.JPG
 
