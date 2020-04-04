@@ -73,13 +73,13 @@ Connect to the SQL Server (with SSMS), using Windows Authentication and setup SQ
 
 Add Sql Login
 
-[AddSqlLogin][AddSqlLogin]
+![AddSqlLogin][AddSqlLogin]
 
-[SqlPassword][SqlPassword]
+![SqlPassword][SqlPassword]
 
-[DbMapping][DbMapping]
+![DbMapping][DbMapping]
 
-[SetUserRoles][SetUserRoles]
+![SetUserRoles][SetUserRoles]
 
 -----
 
