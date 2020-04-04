@@ -81,6 +81,9 @@ Add and configure Sql Login
 
 ![SetUserRoles][SetUserRoles]
 
+Setup SQL Server to use SQL Authentication
+![EnableSqlAuthentication][EnableSqlAuthentication]
+
 -----
 
 ## Step 5.
@@ -99,11 +102,15 @@ Log out of the VM, leaving it running (or simply close the remote desktop sessio
 
 Test the remote connection.
 
+![TestConnection][TestConnection]
+
+
 
 [AddInboundPortRule]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddInboundPortRule.JPG
 [AddSqlLogin]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddSqlLogin.JPG
 [CreateVM]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/CreateVM.JPG
 [DbMapping]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/DbMapping.JPG
+[EnableSqlAuthentication]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableSqlAuthentication.png
 [EnableTCPIP]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPIP.JPG
 [EnableTCPPorts]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/EnableTCPPorts.JPG
 [RDP]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/RDP.JPG
@@ -111,5 +118,6 @@ Test the remote connection.
 [SqlConfiguration]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlConfiguration.JPG
 [SqlPassword]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlPassword.JPG
 [SqlRestart]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/SqlRestart.JPG
+[TestConnection]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/TestConnection.JPG
 [WinFirewallConfig]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/WinFirewallConfig.JPG
 
