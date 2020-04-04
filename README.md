@@ -101,9 +101,13 @@ Set port 1433 to allow connections and save changes
 Log out of the VM, leaving it running (or simply close the remote desktop session). 
 
 Test the remote connection.
+tcp:_IP_,_port_ \ _ServerName_
+
+tcp(colon)
+ipaddress(comma)
+port_number
 
 ![TestConnection][TestConnection]
-
 
 
 [AddInboundPortRule]: https://raw.githubusercontent.com/uid100/Deploy-SQLServer-on-Azure-VM/master/AddInboundPortRule.JPG
