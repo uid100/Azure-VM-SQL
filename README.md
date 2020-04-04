@@ -51,7 +51,7 @@ After the installation completes, open Sql Server Configuration Manager and enab
 
 Run SQL Configuration
 
-[SqlConfiguration]:[SqlConfiguration]
+![SqlConfiguration][SqlConfiguration]
 
 ![EnableTCPIP][EnableTCPIP]
 
