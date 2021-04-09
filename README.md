@@ -1,4 +1,4 @@
-![icon](https://github.com/uid100/Deploy-SQLServer-on-Azure-VM/blob/master/images/studency.png)
+![icon](https://github.com/uid100/Deploy-SQLServer-on-Azure-VM/raw/master/images/studency.png)
 [url](https://portal.azure.com)
 
 # Deploy-SQLServer-on-Azure-VM
