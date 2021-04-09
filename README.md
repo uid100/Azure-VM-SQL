@@ -1,3 +1,6 @@
+![icon](https://github.com/uid100/Deploy-SQLServer-on-Azure-VM/blob/master/images/studency.png)
+[url](https://portal.azure.com)
+
 # Deploy-SQLServer-on-Azure-VM
 
 Currently unable to deploy Azure database server resources. This is a temporary, tested workaround.
