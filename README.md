@@ -5,6 +5,12 @@
 
 Currently unable to deploy Azure database server resources. This is a temporary, tested workaround.
 
+(edit Apr-2021)
+For a brief time, some Azure subscriptions configured for education had very limited capability to 
+configure and deploy Azure SQL Server (PaaS) instances. Azure training documents reference the benefits 
+of using Azure SQL database as a service in contrast to creating a virtual machine, then installing and
+configuring and managing the system, firewall(s) and a SQL server instance.
+
 -----
 
 ## Step 1. 
